@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906029238624",
+    "project_id": "riegomacan",
+    "storage_bucket": "riegomacan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906029238624:android:9d66aa0f5b9362cea0f605",
+        "android_client_info": {
+          "package_name": "com.example.appriego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NwexDzx9gNmndjA_NfJOrCeiuqH4UPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
